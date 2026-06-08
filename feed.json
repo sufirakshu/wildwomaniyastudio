@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Wild Womaniya Studio",
+    "description": "",
+    "home_page_url": "https://sufirakshu.github.io/wildwomaniyastudio",
+    "feed_url": "https://sufirakshu.github.io/wildwomaniyastudio/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Wild Womaniya Studio"
+    },
+    "items": [
+    ]
+}
